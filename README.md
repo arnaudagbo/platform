@@ -1,24 +1,10 @@
-# README
+# Social platform
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I am building a social platform with ruby.
 
-Things you may want to cover:
+I would be happy to hear everything I may change 
 
-* Ruby version
+Things to do:
 
-* System dependencies
+* First i have to find a name
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
